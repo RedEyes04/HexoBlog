@@ -100,11 +100,8 @@ git init
 ```
 git remote add origin git@github.com:yourusername/yourrepository.git
 ```
-## 新建仓库用户
-```
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
-```
+
+
 ## pull到本地
 ```
 git pull origin master
