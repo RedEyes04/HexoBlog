@@ -1,0 +1,36 @@
+- title: 碎碎念 📘
+  subTitle: 生活原本沉闷，但跑起来就会有风 🏃‍♀️
+  tips: 生活的理想，就是为了理想的生活。
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: http://bucket.redeyes.top/2024/10/15/670e7651db393.webp
+  essay_list:
+     - content: 花了好大力气，终于把hexo博客搭建完了！好耶！
+       date: 2024/10/15
+       image:
+         - http://bucket.redeyes.top/2024/10/15/670e871e3aa92.webp
+     - content: 2024上海马拉松中签了！人生中第一场全马就是重量级！开心！
+       date: 2024/10/24
+       image:
+         - https://bucket.redeyes.top/2024/10/29/c74bb1.webp
+    # - content: 遇见彩虹🌈吃定彩虹
+    #   date: 2022/10/23 10:00:00
+    #   image:
+    #     - https://bu.dusays.com/2023/04/09/64329399e285d.webp
+    #     - https://bu.dusays.com/2023/04/09/64329399aa3bc.webp
+    #     - https://bu.dusays.com/2023/04/09/6432939996dd7.webp
+    # - content: ThreeJs API真多丫
+    #   date: 2022/10/19
+    # - content: 妹妹强制要求我买走了她的两幅画 -¥30
+    #   date: 2022/10/02
+    #   image:
+    #     - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+    # - content: 歌曲推荐
+    #   date: 2022/09/25
+    #   aplayer:
+    #     server: tencent
+    #     id: 001FGQba3i10mw
+    
+    
