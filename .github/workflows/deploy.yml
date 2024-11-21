@@ -1,4 +1,4 @@
-name: Deploy Hexo Blog
+ename: Deploy Hexo Blog
 
 on:
   push:
@@ -34,5 +34,5 @@ jobs:
         echo "Running Hexo commands on server..."
         sshpass -p "${{ secrets.SERVER_PASSWORD }}" ssh -o StrictHostKeyChecking=no root@${{ secrets.SERVER_HOST }} << 'EOF'
           cd /blog  # 进入服务器上的 Hexo 目录
-          hexo g  # 生成静态文件
+          hexo ge # 生成静态文件
         EOF
