@@ -18,7 +18,7 @@ VPS ----> Github  (push)
 ##再把仓库里的内容pull到本地
 Github------>Obsidian(本电脑) (pull)
 
- ##本地写完再Commit给Github仓库相应的Github Action检测到文件夹下有变动trigger脚本，连接到远程ssh，进行hexo g操作
+ ##本地写完再Commit给Github仓库相应的Github Action检测到文件夹下有变动，连接到远程ssh，进行hexo g操作
  
 Obsdian(本电脑)----->Github---->Github Action----> VPS（hexo g）
 ```
