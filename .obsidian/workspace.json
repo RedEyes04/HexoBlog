@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +191,7 @@
   "active": "1f48f4358743715a",
   "lastOpenFiles": [
     "source/_posts/Obsidian+Github Action = 编写 + 自动化部署.md",
+    "source/_posts/test.md",
     "source/_posts/test.md",
     "source/_posts/Hexo搭建教程.md",
     "source/_posts/Twikoo评论系统部署以及配置.md",
