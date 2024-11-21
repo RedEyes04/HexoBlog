@@ -11,14 +11,10 @@
             "id": "28bff28b39d900af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "新标签页"
             }
           }
         ]
@@ -173,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28bff28b39d900af",
+  "active": "58697b0ca042db6f",
   "lastOpenFiles": [
     "source/_posts/Obsidian+Github Action = 编写 + 自动化部署.md",
     "source/_posts/test.md",
