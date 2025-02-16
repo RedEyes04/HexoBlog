@@ -1,0 +1,136 @@
+- class_name: 好物推荐🎁
+  description: GOODS 🎁
+  tip: 康康我的好物叭！
+  top_background: https://bucket.redeyes.top/2024/10/13/670ba3e8bea81.webp
+  good_things:
+    - title: Electronic Equipment💻
+      description: 好用捏
+      equipment_list:
+        - name: iPhone 15 Pro 
+          specification: 256G / 钛原色
+          description: 性能强悍，IOS系统流畅，Promotion高刷新率，能怼拍月亮！
+          image: https://bucket.redeyes.top/2024/10/13/670ba77a40d39.webp
+          link: https://item.jd.com/10086038520502.html
+        - name: iPad Air 5
+          specification: 64G / 灰白色
+          description: 性能其实可以，不过120HZ的手机看多了，就会觉得很卡哈哈哈。
+          image: https://bucket.redeyes.top/2024/10/13/670ba26540434.webp
+          link: https://item.jd.com/100019718245.html
+        - name: AirPods Pro 
+          specification: 一代
+          description: 用了好多年了，降噪以及通透，和IOS手机的联动，很舒服！音质放到现在都能吊打大多数耳机！
+          image: https://bucket.redeyes.top/2024/10/13/670ba27001b99.webp
+          link: https://item.jd.com/10114464254463.html
+
+
+        - name: R9000P 2021
+          specification: 2T / 32G / 3070 / R5800H
+          description: 高考完买的，用的到现在没出现什么大的问题，联想的品控还是可以的！
+          image: https://bucket.redeyes.top/2024/10/13/670ba28640696.webp
+          link: https://item.jd.com/10054656887824.html
+
+
+        - name: 罗技G304
+          specification: KDA联名款
+          description: 一节电池少则一个多月，多则三四个月！完全没有电池焦虑，也很轻，颜值也高！
+          image: https://bucket.redeyes.top/2024/10/13/670ba264c4df3.webp
+          link: https://npcitem.jd.hk/10110549544396.html
+
+        - name: VGN S99
+          specification: 阿尼亚轴
+          description: 99键的键盘，小小的，码字也很舒服！还有三模切换！颜色很搭我的鼠标捏！
+          image: https://bucket.redeyes.top/1728818524408_upscayl_2x_realesrgan-x4plus.webp
+          link: https://npcitem.jd.hk/10112553582127.html
+
+
+          
+
+
+    - title: Sprots Goods 🏃‍♀️
+      description: 平常训练比赛的一些好物捏！
+      equipment_list:
+
+      - name: 高驰Pace3
+        specification: 白色
+        description: 很轻，定位和心率很准！相较于2代体验还是有提升的！
+        image: https://bucket.redeyes.top/2024/10/13/670ba27112b47.webp
+        link: https://npcitem.jd.hk/10116142662722.html
+
+
+      - name: 飞影PB2.0
+        specification: 绿色
+        description: 我的第一双弹板鞋，现在训练的时候还穿他！很棒！
+        image: https://bucket.redeyes.top/2024/10/13/670ba265a3c8c.webp
+        link: https://item.jd.com/100070730434.html
+
+
+      - name: 飞影PB3.0
+        specification: 黄色
+        description: 这是我的第二双，推进力很足，但不建议新手小白去尝试，很硬，而且是负坡差，驾驭门槛很高！
+        image: https://bucket.redeyes.top/2024/10/13/670ba263deb9a.webp
+        link: https://item.jd.com/100053722247.html
+
+
+      - name: 飞影Plaid1.5
+        specification: 极光色
+        description: 本来打算明年开春再购入的，没想到上海马拉松中签了，作为我的首歌全马，又加上双十一期间，还是果断以最优惠的价格入手了！
+        image: https://bucket.redeyes.top/2024/10/29/981c53.webp
+        link: https://item.jd.com/100119321864.html
+
+      
+
+
+
+      - name: 强风SE 
+        specification: 《强风吹拂》联名款！
+        description: 很好的一双竞训鞋，也是很好看的一双联名鞋，首发毫不犹豫就拿下了！一年多了，现在还是我的主流训练鞋！
+        image: https://bucket.redeyes.top/2024/10/13/670ba2858b173.webp
+        link: https://item.jd.com/10113722051908.html
+
+      - name: 强风2PRO
+        specification: 宽政大联名配色
+        description: 颜色很漂亮！性能很不错，用料也足！包裹性很好!关键是拿学校奖金白嫖的！香！
+        image: https://bucket.redeyes.top/IMG_1811_20241014-194955_-removebg-preview_upscayl_2x_realesrgan-x4plus.webp
+        link: https://item.jd.com/100140777532.html
+    
+
+
+      - name: 中乔半弹
+        specification: 《强风吹拂》联名款！
+        description: 这半弹的质量很棒！关键也是联名！我比赛基本都是穿的这一条！
+        image: https://bucket.redeyes.top/2024/10/13/670ba271db2ba.webp
+        link: https://item.jd.com/100063557367.html
+
+
+      - name: 中乔背心
+        specification: 《强风吹拂》联名款！
+        description: 这件背心穿去比赛有四次了，但不过已经嫌大了，之后打算裱起来或者收藏起来，见证了我的很多pb时光！
+        image: https://bucket.redeyes.top/2024/10/13/670ba26455bd0.webp
+        link: https://item.jd.com/100091848571.html
+
+
+      - name: 小幽骨传导
+        specification: X7/黑红配色
+        description: 这耳机的性价比很高，音质也不差！能存好多歌！训练和比赛都会戴着！
+        image: https://bucket.redeyes.top/2024/10/13/670ba27241226.webp
+        link: https://item.jd.com/100094700197.html
+
+      - name: 马孔多破风眼睛
+        specification: 红黑色
+        description: 这副眼镜是第二副，第一幅因为没怎么保护好刮花了才买的，因为他的效果足够好，我才再次选择他的！真的很棒！
+        image: https://bucket.redeyes.top/2024/10/29/711380.webp
+        link: https://item.jd.com/100119321864.html
+
+
+      - name: XDS RT180自行车
+        specification: 黑色
+        description: 第一辆公路车，平常跑腻了就会骑车，很有性价比！很适合我这种骑行新手！
+        image: https://bucket.redeyes.top/2024/10/13/670ba2717a57c.webp
+        link: https://item.jd.com/10094296588739.html
+
+
+
+        
+
+
+        

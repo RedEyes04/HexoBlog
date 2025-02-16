@@ -1,0 +1,73 @@
+- class_name: 推荐阅读 💻
+  flink_style: flexcard
+  hundredSuffix: ""
+  link_list:
+    - name: anzhiyu主题
+      link: https://blog.anheyu.com/
+      avatar: https://bucket.redeyes.top/2024/12/08/3f555f.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://bucket.redeyes.top/2024/12/08/5af31b.jpg
+    - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      avatar: https://bucket.redeyes.top/2024/12/08/9b2cc9.jpg
+      descr: 漂分享设计与科技生活
+      siteshot: https://bucket.redeyes.top/2024/12/08/2c62a5.png
+      color: vip
+      tag: 技术
+- class_name: 友人帐 📖
+  flink_style: telescopic
+  hundredSuffix: ""
+  link_list:
+    - name: Echo 的小窝
+      link: https://www.liveout.cn/
+      avatar: http://bucket.redeyes.top/2024/10/15/670e904b53fe6.jpg
+      descr: 漂泊于互联网中的小窝
+      siteshot: http://bucket.redeyes.top/2024/10/15/670e902c7a680.webp
+      color: vip
+      tag: 技术
+
+    - name: KAMIASUKA’s Blog
+      link: https://kamiasuka.top/index.html
+      avatar: http://bucket.redeyes.top/2024/10/15/670e904a9a926.png
+      descr: Patience is key in life
+      siteshot: http://bucket.redeyes.top/2024/10/15/670e902cac946.webp
+      color: vip
+      tag: 技术
+
+    - name: 静若安然
+      link: https://www.imets.cn
+      avatar: http://bucket.redeyes.top/2024/10/15/670e904a4e369.ico
+      descr: 一个宁静的世界
+      siteshot: http://bucket.redeyes.top/2024/10/15/670e8b73281c1.webp
+      color: vip
+      tag: 技术
+
+    
+
+    - name: 湘铭`Blog
+      link: https://xiangming.site
+      avatar: https://bucket.redeyes.top/2024/10/20/e7e02e.webp
+      descr: 湘铭的秘密基地啊！
+      siteshot: https://bucket.redeyes.top/2024/10/20/64e80e.webp
+      color: vip
+      tag: 技术
+
+    - name: Repractice
+      link: https://bornleader10.cn/
+      avatar: https://bucket.redeyes.top/2024/10/21/bfbd2d.webp
+      descr: 一起学习 超越情绪 变得更强
+      siteshot: https://bucket.redeyes.top/2024/10/21/9d4108.webp
+      color: vip
+      tag: 技术
+
+    - name: qlAD的技术笔记
+      link: https://www.qladgk.com
+      avatar: https://bucket.redeyes.top/2024/10/21/4d3a5d.jpg
+      descr: 一名小小的计算机爱好者
+      siteshot: https://bucket.redeyes.top/2024/10/21/5274cd.webp
+      color: vip
+      tag: 技术
+
+
+     
+

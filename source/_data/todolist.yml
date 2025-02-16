@@ -1,0 +1,16 @@
+# seat控制清单在左栏还是右栏显示，completed控制是否已完成
+- class_name: obsidian-ssh-terminal开发进度
+  seat: left
+  todo_list:
+    - content: 项目初始化
+      completed: completed
+    - content: 暂时搁置！（在忙毕设和论文）
+      completed: false
+
+- class_name: ReBloG(毕设)
+  seat: right
+  todo_list:
+    - content: 确定技术栈 前端：vite + vue + piana 后端 nojdes+Express
+      completed: completed
+   
+    

@@ -1,0 +1,111 @@
+- class_name: 关于页
+  subtitle: 纵有疾风起，人生不言弃🏃‍♀️
+  avatarImg: https://bucket.redeyes.top/2024/10/08/6704f01824fb6.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 📺 热血动漫狂热
+      - 🍳 烹饪美食家
+      - 🎵 许嵩狂热粉
+    right:
+      - 电脑维修小天才 💻
+      - 马拉松爱好者 🏃
+      - 吉他小菜鸟 🎸
+      - 独立游戏忠实粉 🎮
+  name: REDEYES
+  description: 是一名 跑者、学生、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+      - 音乐
+      - 跑步
+  helloAbout: HOW ARE U!
+  skillsTips:
+    tips: 技术栈
+    title: 太弱了！还得学！我要全栈！
+  careers:
+    tips: 生涯
+    title: 进步未可量
+    list:
+      - desc: EDU,计算机科学与技术
+        color: "#994391"
+    img: https://bucket.redeyes.top/2024/10/12/670a1f3e0ab13.png
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，东台市
+    background: https://bucket.redeyes.top/2024/10/09/6706a24619729.webp
+    backgroundDark: https://bucket.redeyes.top/2024/10/09/6706a24681e70.webp
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2004
+    selfInfoTips2: 无锡太湖学院
+    selfInfoContent2: 计算机科学技术
+    selfInfoTips3: 现在在读
+    selfInfoContent3: 大三学生👨‍🎓
+  personalities:
+    author_name: 提倡者
+    personality_type: INFJ-T
+    photo_url: https://bucket.redeyes.top/2024/10/10/67077e22b9dca.webp
+    personality_img: https://bucket.redeyes.top/2024/10/10/67077dc48e3ea.png
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 纵有疾风起，
+    maxim_bottom: 人生不言弃！
+  buff:
+    buff_tips: 夏目友人帳
+    buff_top: 只要有想见的人，
+    buff_bottom: 便不再孤单一人！
+  game:
+    game_tips: 爱好游戏
+    game_title: 守望先锋
+    game_uid: "ID: 性感半载在线修弓#5382"
+    game_bg: https://bucket.redeyes.top/2024/10/10/67077f0bccc95.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 强风吹拂
+        href: https://www.bilibili.com/bangumi/play/ss25742?spm_id_from=333.337.0.0
+        cover: https://bucket.redeyes.top/2024/10/12/670a5c7455b2a.webp
+      - name: 咒术回战
+        href: https://v.qq.com/x/search/?q=%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85
+        cover: https://bucket.redeyes.top/2024/10/12/670a5c76ce747.webp
+      - name: 火影忍者
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bucket.redeyes.top/2024/10/12/670a5c73dc3b1.webp
+      - name: 夏目友人帐
+        href: https://www.bilibili.com/bangumi/play/ss1660?spm_id_from=333.337.0.0
+        cover: https://bucket.redeyes.top/2024/10/12/670a5c737923b.webp
+      - name: JOJO的奇妙冒险
+        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bucket.redeyes.top/2024/10/12/670a5c77e5e6e.webp
+      - name: 我独自升级
+        href: https://www.bilibili.com/bangumi/play/ss47211?spm_id_from=333.337.0.0
+        cover: https://bucket.redeyes.top/2024/10/12/670a608446d15.webp
+      - name: 葬送的芙莉莲
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bucket.redeyes.top/2024/10/12/670a61dff0588.webp
+      - name: 石纪元
+        href: https://www.bilibili.com/bangumi/play/ss27993?spm_id_from=333.337.0.0
+        cover: https://bucket.redeyes.top/2024/10/12/670a6084e91f0.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 马拉松、箱根驿传
+    like_bg: https://bucket.redeyes.top/2024/10/12/670a5f36927cd.webp
+    like_bottom: No Human Is Limited
+  music:
+    music_tips: 音乐偏好
+    music_title: 许嵩、英文、摇滚
+    music_bg: https://bucket.redeyes.top/2024/10/10/670781c242bf9.jpg
+    music_link: /music
+ 

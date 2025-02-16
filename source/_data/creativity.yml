@@ -1,0 +1,26 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://bucket.redeyes.top/2024/10/09/6706939c01b26.png
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bucket.redeyes.top/2024/10/09/670694e49193a.png
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://bucket.redeyes.top/2024/10/09/670693b247afb.png
+    - name: CSS
+      color: "#2c51db"
+      icon: https://bucket.redeyes.top/2024/10/09/67069a4ac0047.png
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bucket.redeyes.top/2024/10/09/6706939ac0943.png
+    - name: HTML
+      color: "#fff"
+      icon: https://bucket.redeyes.top/2024/10/09/6706939b91ebc.png
+    - name: Git
+      color: "#fff"
+      icon: https://bucket.redeyes.top/2024/10/09/67069a054e184.png
+    - name: VS CODE
+      color: "#fff"
+      icon: https://bucket.redeyes.top/2024/10/09/6706939b2d59f.png

@@ -1,0 +1,36 @@
+- class_name: 「能跑多远」
+  path_name: /myrun
+  type: 1
+  description: 「一千个跑者，就有一千个“马拉松”🏃‍♀️」
+  cover: http://bucket.redeyes.top/2024/10/15/670e6a4f079cf.webp
+  top_background: http://bucket.redeyes.top/2024/10/15/670e6d208f1cd.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024-05-27
+      content: 证书到啦！
+      image:
+        - http://bucket.redeyes.top/2024/10/15/670e6ebf0ca2f.webp
+        - http://bucket.redeyes.top/2024/10/15/670e6ebf0c844.webp
+    
+
+- class_name: 「能思多深」
+  path_name: /myhome
+  type: 1
+  description: 「春风又绿江南岸，明月何时照我还？🏠」
+  top_link: /album
+  top_btn_text: 返回
+  top_background: http://bucket.redeyes.top/2024/10/15/670e642f3f332.webp
+  cover: http://bucket.redeyes.top/2024/10/15/670e6e2637c79.webp
+  album_list:
+    - date: 2024-07-27
+      content: 西溪一览
+      image:
+        - http://bucket.redeyes.top/2024/10/15/670e5dcce09b0.webp
+        - http://bucket.redeyes.top/2024/10/15/670e5dcd42c90.webp
+        - http://bucket.redeyes.top/2024/10/15/670e5dcc9fd10.webp
