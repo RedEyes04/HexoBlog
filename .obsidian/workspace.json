@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Obsidian+Github Action = 编写 + 自动化部署.md",
+                "file": "source/_posts/ReBlog项目开发日志01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian+Github Action = 编写 + 自动化部署"
+              "title": "ReBlog项目开发日志01"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "679f2550e84d3f35",
   "lastOpenFiles": [
-    "source/_posts/test.md",
+    "source/_posts/Hexo搭建教程.md",
     "source/_posts/Obsidian+Github Action = 编写 + 自动化部署.md",
+    "source/_posts/ReBlog项目开发日志01.md",
+    "source/_posts/test.md",
     "未命名.md"
   ]
 }
