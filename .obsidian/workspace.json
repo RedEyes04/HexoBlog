@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/ReBLOG开发日志02.md",
+                "file": "source/_posts/ReBLOG开发日记01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReBLOG开发日志02"
+              "title": "ReBLOG开发日记01"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "d62bb5bb340a9b7f",
   "lastOpenFiles": [
-    "source/_posts/ReBLOG开发日记01.md",
     "source/_posts/ReBLOG开发日志02.md",
+    "source/_posts/ReBLOG开发日记01.md",
     "source/临时文章/ReBLOG开发日记03.md",
     "source/临时文章",
     "source/_posts/Obsidian+Github Action = 编写 + 自动化部署.md",
