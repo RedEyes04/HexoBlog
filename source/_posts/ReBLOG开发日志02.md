@@ -1,8 +1,8 @@
 ---
 tags:
-  - dev-log
+  - 开发日志
 top_img: https://bucket.redeyes.top/2025/02/22/08de3d.jpeg
-categories: dev-log
+categories: 开发日志
 title: ReBLOG开发日志02
 cover: https://bucket.redeyes.top/2025/02/22/08de3d.jpeg
 date: "{{date}}"
