@@ -19,6 +19,6 @@ npm create vite@latest
 官网如下
 https://yike.design/
 根据官网的使用说明进行相应的引包以及安装其他依赖包，接着安装less包，以便于使用YIKE相应的less变量
-ww
-到这里就完成了所有的前期准备
+
+到
 
